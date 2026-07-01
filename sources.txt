@@ -1,0 +1,14 @@
+src/model/ContaCorrente.java
+src/model/Emprestimo.java
+src/model/PessoaJuridica.java
+src/model/UsuarioInterno.java
+src/model/Conta.java
+src/model/Cliente.java
+src/model/ContaPoupanca.java
+src/model/Usuario.java
+src/model/Parcela.java
+src/model/PessoaFisica.java
+src/model/Transacao.java
+src/Main.java
+src/view/MenuView.java
+src/controller/BancoController.java
